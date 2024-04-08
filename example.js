@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const API_URL = "http://localhost:3040/v1/chat/completions";
+const API_URL = "https://localhost:3040/v1/chat/completions";
 
 const prompt = "Hello, how are you?";
 
